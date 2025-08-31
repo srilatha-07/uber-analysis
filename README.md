@@ -19,7 +19,7 @@ The project includes:\
     Uber-Analysis-Project/
     │
     ├── data/                 # Dataset
-    │   └── ncr_ride_bookings.xlsx
+    │   └── ncr_ride_bookings.csv
     │
     ├── notebooks/            # Jupyter Notebook
     │   └── Uber_Analysis.ipynb
